@@ -65,6 +65,9 @@ set encoding=utf-8
 set splitright
 set splitbelow
 
+" write file to disk every 50 milliseconds.
+set updatetime=50
+
 
 " ==========Map==========
 source ~/.vim/map.vim
