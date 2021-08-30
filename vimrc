@@ -74,3 +74,7 @@ source ~/.vim/map.vim
 
 " ==========Auto command==========
 source ~/.vim/autocmd.vim
+
+" ==========Plug==========
+source ~/.vim/plug.vim
+
