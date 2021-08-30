@@ -1,0 +1,14 @@
+{
+    "coc.preferences.rootPatterns": [".git"],
+    "python.jediEnabled": false,
+    "python.linting.enabled": false,
+    "python.pythonPath": "python3",
+    "translator.engines": [
+        "google",
+        "youdao",
+        "haici"
+    ],
+    "translator.maxsize": 1000,
+    "translator.window.maxWidth": 500,
+    "translator.window.maxHeight": 500
+}
