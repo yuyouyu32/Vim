@@ -38,7 +38,7 @@ Plug 'ntpeters/vim-better-whitespace'
 Plug 'scrooloose/nerdcommenter'
 
 " tmux theme
-" Plug 'edkolev/tmuxline.vim'
+Plug 'edkolev/tmuxline.vim'
 
 " highlight ahd airline theme
 Plug 'vim-airline/vim-airline'
