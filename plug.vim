@@ -12,7 +12,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'Yggdroot/indentLine'
 
 " Use release branch (Recommend)
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " fuzzy search "
 Plug 'Yggdroot/LeaderF', { 'do': './install.sh', 'on': 'Leaderf' }
